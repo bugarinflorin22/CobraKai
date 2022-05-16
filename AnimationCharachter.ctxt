@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AnimationCharachter
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ MyWorld()
+comment3.params=
+comment3.target=void\ MeetSensei()
+comment4.params=
+comment4.target=void\ walk_anim_right()
+comment5.params=
+comment5.target=void\ walk_anim_left()
+comment6.params=
+comment6.target=void\ walk_anim_up()
+numComments=7

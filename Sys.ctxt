@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Sys
+comment1.params=
+comment1.target=Sys()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ randomnumber()
+comment4.params=
+comment4.target=void\ in()
+comment5.params=x
+comment5.target=void\ pauza(int)
+comment6.params=x
+comment6.target=void\ raspuns(int)
+comment7.params=
+comment7.target=void\ rein()
+numComments=8
